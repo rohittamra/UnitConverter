@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+
+    <string-array name="length_arrays">
+        <item>Inches</item>
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Hectameters</item>
+    </string-array>
+
+    <string name="choose">Choose</string>
+
+    <string-array name="temp_arrays">
+        <item>Fahrenheit </item>
+        <item>Celsius </item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="km_desc">The kilometre or kilometer is a unit of length in the metric system, equal to one thousand metres.</string>
+    <string name="km_unitSystem">Unit system: metric</string>
+    <string name="km_siUnit">SI units: 1000 m</string>
+    <string name="km_Imperial">Imperial/US units: 0.62137 mi; 3280.8 ft</string>
+    <string name="km_Nautical">Nautical units: 0.53996 nmi</string>
+
+
+
+    <string name="inches_desc">The inch is a unit of length in the imperial and United States customary systems of measurement now formally equal to ​¹⁄₃₆ yard but usually understood as ​¹⁄₁₂ of a foot.</string>
+    <string name="inches_unitSystem">Unit system: imperial/US units</string>
+    <string name="inches_siUnit">Metric(SI) units: 25.4 mm</string>
+    <string name="inches_Imperial">Unit of: Length</string>
+</resources>
